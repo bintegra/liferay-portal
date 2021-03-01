@@ -170,10 +170,12 @@
 /util-bridges/classes
 /util-bridges/util-bridges*.asc
 /util-bridges/util-bridges*.jar
+/util-java/gradle/
 /util-java/*.ipr
 /util-java/*.iws
 /util-java/build
 /util-java/classes
+/util-java/gradle*
 /util-java/test-classes
 /util-java/test-coverage
 /util-java/test-results
