@@ -179,10 +179,12 @@
 /util-java/test-results
 /util-java/util-java*.asc
 /util-java/util-java*.jar
+/util-slf4j/gradle/
 /util-slf4j/*.ipr
 /util-slf4j/*.iws
 /util-slf4j/build
 /util-slf4j/classes
+/util-slf4j/gradle*
 /util-slf4j/test-classes
 /util-slf4j/test-results
 /util-slf4j/util-slf4j*.asc
