@@ -166,8 +166,10 @@
 /tunnel-web/tunnel-web.war
 /util-bridges/*.ipr
 /util-bridges/*.iws
+/util-bridges/gradle*
 /util-bridges/build
 /util-bridges/classes
+/util-bridges/gradle/
 /util-bridges/util-bridges*.asc
 /util-bridges/util-bridges*.jar
 /util-java/gradle/
