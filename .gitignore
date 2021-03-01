@@ -58,8 +58,10 @@
 /portal-client/src
 /portal-impl/*.ipr
 /portal-impl/*.iws
+/portal-impl/gradle*
 /portal-impl/build
 /portal-impl/classes
+/portal-impl/gradle/
 /portal-impl/portal-impl*.asc
 /portal-impl/portal-impl*.jar
 /portal-impl/service.xml
@@ -75,8 +77,10 @@
 /portal-impl/woven-classes
 /portal-kernel/*.ipr
 /portal-kernel/*.iws
+/portal-kernel/gradle*
 /portal-kernel/build
 /portal-kernel/classes
+/portal-kernel/gradle/
 /portal-kernel/portal-kernel*.asc
 /portal-kernel/portal-kernel*.jar
 /portal-kernel/test-classes
